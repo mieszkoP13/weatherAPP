@@ -10,7 +10,7 @@ If you want to use this app, unfortunately, you have to generate your own API ke
 ## Manual installation, set-up
 To directly run the app from source, you will need to run following commands:
 ```
-$ git clone tu_bedzie_link && cd weatherAPP
+$ git clone https://github.com/mieszkoP13/weatherAPP && cd weatherAPP
 $ pip3 install -r requirements.txt
 $ python3 main.py
 ```
