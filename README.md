@@ -17,5 +17,5 @@ $ python3 main.py
 
 ## Used technologies, modules, programs
 Open Weather Map API
-SQLite database for storing weather search history
-Numerous Python modules for geolocation, time, date, GUI, security etc.
+  SQLite database for storing weather search history
+  Numerous Python modules for geolocation, time, date, GUI, security etc.
